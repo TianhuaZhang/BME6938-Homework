@@ -1,1 +1,1 @@
-# Homework Assignments for BME4760/BME6938 Biomedical Data Science
+#  This is a repository for the homework assignemnts of BME6938 Biomedical Data Science
